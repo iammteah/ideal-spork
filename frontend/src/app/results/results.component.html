@@ -1,0 +1,68 @@
+<mat-card
+  class="flex-row mat-elevation-z6"
+  [@centering]="response.numFound >= 0 || advancedSearch? 'top' : 'center'">
+  <app-search-form
+    *ngIf="!advancedSearch"
+    (submit)="search($event)"
+    [query]="actualQuery.term">
+  </app-search-form>
+  <app-advanced-search-form
+    *ngIf="advancedSearch"
+    (submit)="search($event)">
+  </app-advanced-search-form>
+  <input
+    *ngIf="evaluationMode"
+    style="width:unset"
+    placeholder="QueryID"
+    type="number"
+    [ngModel]="actualQuery.id"
+    (ngModelChange)="loadQuery($event)">
+  <button
+    mat-fab
+    *ngIf="evaluationMode"
+    color="primary"
+    (click)="next()">
+    Next
+  </button>
+  <mat-slide-toggle
+    *ngIf="!evaluationMode"
+    [checked]="advancedSearch"
+    (change)="advancedSearch = !advancedSearch">
+    Erweiterte Suche
+  </mat-slide-toggle>
+</mat-card>
+<mat-card *ngIf="response.numFound >= 0"
+          class="mat-elevation-z6">
+  <mat-card-title>Suchergebnisse</mat-card-title>
+  <mat-card-subtitle>{{response.numFound}} Ergebnisse</mat-card-subtitle>
+  <mat-list role="list">
+    <div class="flex-row" *ngFor="let result of response.docs">
+      <mat-list-item role="listitem">
+        <mat-icon mat-list-icon (click)="openSpeech(result.url)">launch</mat-icon>
+        <h1 mat-line
+            [innerHTML]="result.titel[0]"
+            (click)="openSpeechDialog(result)"
+            class="titel">
+        </h1>
+        <div mat-line
+             class="flex-row">
+          <span [innerHTML]="result.person"
+                (click)="openSpeechDialog(result)"
+                class="redner"
+          ></span>
+          <span [innerHTML]="result.datum"
+                (click)="openSpeechDialog(result)"
+                class="datum"></span>
+        </div>
+        <p mat-line
+           class="snippet"
+           [innerHTML]="getSnippetForId(result.id)"
+           (click)="openSpeechDialog(result)"></p>
+      </mat-list-item>
+      <mat-checkbox *ngIf="evaluationMode" [(ngModel)]="result.feedback.relevant"></mat-checkbox>
+    </div>
+    <div *ngIf="response.numFound == 0">
+      Die Suche lieferte keine Ergebnisse.
+    </div>
+  </mat-list>
+</mat-card>

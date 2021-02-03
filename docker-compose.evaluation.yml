@@ -1,0 +1,54 @@
+version: "2.1"
+services:
+  frontend:
+    container_name: frontend
+    image: immihendrix/ideal-spork:frontend-evaluation
+    depends_on:
+      - solr
+      - evalserver
+    links:
+      - solr
+      - evalserver
+    environment:
+      - COMPOSE_HTTP_TIMEOUT = 120
+    ports:
+      - "8080:80"
+
+  evalserver:
+    container_name: evalserver
+    image: immihendrix/ideal-spork:evaluation
+#    depends_on:
+#      evaluation_db:
+#        condition: service_healthy
+#    links:
+#      - evaluation_db
+    ports:
+      - "3000:3000"
+    volumes:
+      - db:/app/evaluation.sqlite
+  
+#  evaluation_db:
+#    container_name: evaluation_db
+#    image: mysql:5
+#    environment:
+#      - MYSQL_ROOT_PASSWORD=root
+#      - MYSQL_DATABASE=evaluation
+#      - MYSQL_USER=spork
+#      - MYSQL_PASSWORD=ABBAIT
+#    ports:
+#      - "3306:3306"
+#    volumes:
+#      - evaluation_db:/var/lib/mysql
+#    healthcheck:
+#      test: "mysql -uroot -proot -e 'use evaluation'"
+#      timeout: 20s
+#      retries: 10
+
+  solr:
+    container_name: solr
+    image: immihendrix/ideal-spork:solr
+    ports:
+      - "8983:8983"
+
+volumes:
+  db:

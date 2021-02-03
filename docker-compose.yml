@@ -1,0 +1,19 @@
+version: "2.1"
+services:
+  frontend:
+    container_name: frontend
+    image: immihendrix/ideal-spork:frontend
+    depends_on:
+      - solr
+    links:
+      - solr
+    environment:
+      - COMPOSE_HTTP_TIMEOUT = 120
+    ports:
+      - "8080:80"
+
+  solr:
+    container_name: solr
+    image: immihendrix/ideal-spork:solr
+    ports:
+      - "8983:8983"

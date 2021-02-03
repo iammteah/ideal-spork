@@ -1,0 +1,21 @@
+version: "2.1"
+services:
+  frontend:
+    container_name: frontend
+    build:
+      context: ./frontend
+    depends_on:
+      - solr
+    links:
+      - solr
+    environment:
+      - COMPOSE_HTTP_TIMEOUT = 120
+    ports:
+      - "8080:80"
+
+  solr:
+    container_name: solr
+    build:
+      context: ./data/solr-env/
+    ports:
+      - "8983:8983"

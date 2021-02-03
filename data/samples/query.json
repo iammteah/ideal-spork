@@ -1,0 +1,1592 @@
+{
+  "queries": [
+    {
+      "id": 1,
+      "text": "Query One"
+    },
+    {
+      "id": 2,
+      "text": "Query Two"
+    }
+  ],
+  "feedback": {
+    "query_id": 1,
+    "results": [
+      {
+        "datum": "5. September 2015",
+        "titel": [
+          "Konferenz der G-7-Parlamentspräsidenten"
+        ],
+        "person": "Joachim Gauck",
+        "untertitel": [
+          "Der Bundespräsident hat am 5. September beim Abendessen anlässlich der Konferenz der Parlamentspräsidenten der G-7-Mitgliedsstaaten eine Rede gehalten: \"In den G-7 verbinden sich Gleichgesinnte, die freiheitlichen Werten verpflichtet sind, weil auf dieser Basis Übereinkommen und Problemlösungen einfacher möglich werden. Die Verbindung von demokratischer Verfasstheit und wirtschaftlicher Stärke macht die Attraktivität unseres Zusammenschlusses aus.\""
+        ],
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Joachim-Gauck/Reden/2015/09/150905-Abendessen-G7-Staaten-Leipzig.html",
+        "id": "c679b6ea-0b7f-43a1-901c-94ce8883f314",
+        "_version_": 1619495504502063000,
+        "rohtext": "Ich freue mich sehr, Sie in diesem schönen Konzertsaal des Bacharchivs begrüßen zu dürfen, in dem, so wird vermutet, schon Johann Sebastian Bach selbst musiziert hat. Neben Schönheit und Tradition birgt dieser Raum noch eine Überraschung. Das Deckengemälde über unseren Köpfen verdeckt eine Kammer. Sie sorgt für akustische Effekte. Man nennt sie Echokammer.\n\nSie kann Nachhall erzeugen oder verstärken. Ein schöner Trick, dessen Anwendung man sich in mancher Parlamentsdebatte vorstellen könnte. Ich jedenfalls wünschte mir für manchen Satz einen längeren Nachhall in unserer auf maximale Beschleunigung drängenden Zeit.\n\nIn der Kommunikationstheorie aber hat der Begriff \"Echokammer\" längst eine eigene Karriere gemacht. Er bezeichnet einen nach außen abgeschotteten Raum, in dem unter Gleichgesinnten kein Austausch von Meinungen mehr stattfindet, sondern nur die immer gleichen Urteile widerhallen. Man bleibt auf verhängnisvolle Weise unter sich.\n\nDer Gruppe der Sieben wird mitunter der Vorwurf gemacht, sie sei ein solcher elitärer Klub, der sich, nach außen abgeschlossen, nur um die Wahrung der eigenen Interessen bemühe. Die G-7-Treffen seien nutzlos, teuer und undemokratisch, weil an den Parlamenten vorbei entschieden würde.\n\nWir wissen, diese Vorwürfe sind unberechtigt. Wir wissen aber auch, dass wir ihnen immer wieder neu begegnen müssen. Nicht zuletzt diese Konferenz der Parlamentspräsidenten in Leipzig ist ein Beleg dafür, dass die Parlamente ein unverzichtbarer Teil der G-7 sind. Die Gewaltenteilung, das Teilen der Macht zum Zweck ihrer Begrenzung, ist das konstitutive Merkmal unserer Demokratien.\n\nDiese demokratische Verfasstheit ist die Grundlage, auf der wir miteinander handeln. Wir können es nicht oft genug sagen: Wir sind eine Wertegemeinschaft. In den G-7 verbinden sich Gleichgesinnte, die freiheitlichen Werten verpflichtet sind, weil auf dieser Basis Übereinkommen und Problemlösungen einfacher möglich werden. Die Verbindung von demokratischer Verfasstheit und wirtschaftlicher Stärke macht die Attraktivität unseres Zusammenschlusses aus.\n\nIn diesem Sinn wollen wir auch das Motto des jüngsten G-7-Gipfels in Elmau \"An morgen denken. Gemeinsam handeln.\" verstehen. Wer an morgen denkt, wird gemeinsam handeln müssen, auch und gerade im Rahmen der G-7. Wie sonst wollten wir den Herausforderungen unserer Zeit begegnen? Wie wollten wir der Bedrohung durch den Terrorismus entgegentreten, wie den Klimawandel und die Folgen von Wirtschaft- und Finanzkrisen, auch den Zustrom von Flüchtlingen beherrschen, wenn nicht gemeinsam?\n\nWilly Brandt brachte dieses Motto vor 35 Jahren auf einen Begriff: Weltinnenpolitik – geteilte Verantwortung also und fairer Interessenausgleich. Wir gehen inzwischen sparsam mit diesem Begriff um. Vielleicht sind wir – nach Rückschlägen im Kampf gegen den Terror und um den Erhalt unserer Lebensgrundlagen – bescheiden geworden. Möglicherweise auch zu bescheiden.\n\nEine Alternative zu einem gemeinsamen Handeln gibt es nicht. Wo der Gemeinsinn fehlt, scheitern wir. Einer Herausforderung wie der jüngsten Ebola-Epidemie sind wir nur gemeinsam gewachsen. Globale Aufgaben verlangen nach gemeinsamen Anstrengungen. Es freut mich deshalb sehr, dass der G-7-Gipfel in Elmau sich auf ehrgeizige Klima-Ziele verständigen konnte. Sie umzusetzen, wird Aufgabe der nationalen Parlamente sein. Umso erfreulicher ist das Vorbild an Entschiedenheit, das die G-7 gegeben hat.\n\nGegeneinander zu handeln, führt uns an Abgründe wie jene, in die wir im Osten der Ukraine schauen müssen. Dass wir nach Jahrzehnten der Verständigung in Europa erleben müssen, wie die Regeln, die wir uns gegeben haben, gebrochen werden, ist ein Rückschlag. Er macht nur umso deutlicher, wie wichtig die Verständigung auf gemeinsame Regeln ist. Auch das hat der G-7-Gipfel in der gebotenen Deutlichkeit unterstrichen.\n\nAuf diesem Weg der Bemühungen um Frieden und Gerechtigkeit in unserer Welt wollen wir gemeinsam weitergehen. Ich bitte Sie, mit mir das Glas zu erheben auf eine vertrauensvolle Zusammenarbeit.",
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "2. März 2008",
+        "titel": [
+          "Ansprache von Bundespräsident Horst Köhler bei der Verleihung des Verdienstordens der Bundesrepublik Deutschland an Herrn Landesrabbiner Dr. Henry G. Brandt"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2008/03/20080302_Rede2.html",
+        "id": "5f2102cb-453c-45d5-81d1-ff1cb4f25ef6",
+        "_version_": 1619495509797372000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "29. Juni 2017",
+        "titel": [
+          "Regierungserklärung von Bundeskanzlerin Merkel zum Europäischen Rat am 22. und 23. Juni 2017 in Brüssel und zum G-20-Gipfel am 7. und 8. Juli 2017 in Hamburg"
+        ],
+        "person": "Angela Merkel",
+        "untertitel": [
+          "in Berlin vor dem Deutschen Bundestag  (Protokoll des Deutschen Bundestages)"
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Regierungserklaerung/2017/2017-06-29-regierungserklaerung.html",
+        "id": "ac99a361-ef35-4ca3-ae47-0f5998f6d52c",
+        "_version_": 1619495734890987500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "04. Juni 2014",
+        "titel": [
+          "Regierungserklärung von Bundeskanzlerin Merkel vor dem Bundestag"
+        ],
+        "person": "Angela Merkel",
+        "untertitel": [
+          "in Berlin"
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Regierungserklaerung/2014/2014-06-05-bt-merkel.html",
+        "id": "431a1870-fc81-410b-8a68-8dbb6a8ee4ce",
+        "_version_": 1619495736053858300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "21. Mai 2015",
+        "titel": [
+          "Regierungserklärung von Bundeskanzlerin Merkel"
+        ],
+        "person": "Angela Merkel",
+        "anrede": "Herr Präsident! Liebe Kolleginnen und Kollegen!",
+        "untertitel": [
+          "in Berlin"
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Regierungserklaerung/2015/2015-05-21-regierungserklaerung.html",
+        "id": "d961d8dc-83dc-480a-b6ef-b4cbb016d3f9",
+        "_version_": 1619495737234555000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "26. November 2014",
+        "titel": [
+          "Rede von Bundeskanzlerin Merkel im Deutschen Bundestag"
+        ],
+        "person": "Angela Merkel",
+        "untertitel": [
+          "in Berlin"
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Rede/2014/11/2014-11-26-merkel-bt-haushalt.html",
+        "id": "321cd827-028c-4d55-a384-4da0469c7a47",
+        "_version_": 1619495734989553700,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "22.04.2002",
+        "titel": [
+          "Ansprache von Bundeskanzler Gerhard Schröder zur Eröffnung des Wirtschaftstages Afrika"
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "sehr geehrte Damen und Herren!",
+        "excerpt": [
+          "Die Menschen in Afrika haben ein Anrecht auf Teilhabe am weltweiten Wohlstand und an der Gestaltung unserer einen Welt. Das ist die Herausforderung für uns alle.",
+          "Die Menschen in Afrika haben ein Anrecht auf Teilhabe am weltweiten Wohlstand und an der Gestaltung unserer einen Welt. Das ist die Herausforderung für uns alle.",
+          "Die Menschen in Afrika haben ein Anrecht auf Teilhabe am weltweiten Wohlstand und an der Gestaltung unserer einen Welt. Das ist die Herausforderung für uns alle.",
+          "Die Menschen in Afrika haben ein Anrecht auf Teilhabe am weltweiten Wohlstand und an der Gestaltung unserer einen Welt. Das ist die Herausforderung für uns alle."
+        ],
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/36/77236/multi.htm",
+        "id": "f364d8bf-48d3-4ed4-a523-42edac1fb99d",
+        "_version_": 1619495726306295800,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "23.01.2001",
+        "titel": [
+          "Rede von Staatsminister Hans Martin Bury auf der Dialogveranstaltung &quot;Digital Inclusion&quot; - Entwicklungspolitisches Forum der Deutschen Stiftung für internationale Entwicklung -"
+        ],
+        "person": "Hans Martin Bury",
+        "anrede": "Anrede,",
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/83/29583/multi.htm",
+        "id": "6593adb6-45b1-4fc3-a13d-ddd65d137b57",
+        "_version_": 1619495728403447800,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "13. März 2014",
+        "titel": [
+          "Regierungserklärung von Bundeskanzlerin Merkel"
+        ],
+        "person": "Angela Merkel",
+        "untertitel": [
+          "in Berlin"
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Regierungserklaerung/2014/2014-03-13-bt-merkel.html",
+        "id": "beef8bc4-fe87-469a-83d1-1dee86f2ebbf",
+        "_version_": 1619495734202073000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "8. Februar 2010",
+        "titel": [
+          "Tischrede von Bundespräsident Horst Köhler anlässlich des Staatsbanketts beim Staatsbesuch in der Republik Korea"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2010/02/20100208_Rede.html",
+        "id": "382f47b3-f1a8-4aa8-b917-f9cfdf83d485",
+        "_version_": 1619495507709657000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "26.03.2010",
+        "titel": [
+          "Rede von Außenminister Guido Westerwelle zum Jahresabrüstungsbericht der Bundesregierung"
+        ],
+        "person": "Guido Westerwelle",
+        "untertitel": [
+          "Rede von Außenminister Guido Westerwelle zum Jahresabrüstungsbericht der Bundesregierung im Deutschen Bundestag"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2010/100326-BM-BT-Abruestung.html",
+        "id": "1b8dedc0-45b7-42e7-aea6-6ac588c2d00d",
+        "_version_": 1619495591993147400,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "04.06.2011",
+        "titel": [
+          "Rede der Bundeskanzlerin beim 33. Evangelischen Kirchentag in Dresden"
+        ],
+        "person": "Angela Merkel",
+        "anrede": "Anrede,",
+        "excerpt": [
+          "in Dresden",
+          "in Dresden",
+          "in Dresden",
+          "in Dresden"
+        ],
+        "url": "http://www.bundesregierung.de/nn_1498/Content/DE/Rede/2011/06/2011-06-04-kirchentag,layoutVariant=Druckansicht.html",
+        "id": "d5a9f4a9-7c9a-427b-9e94-f37c84b0ff66",
+        "_version_": 1619495733101068300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "23. Juli 1999",
+        "titel": [
+          "Eröffnung der Ausstellung: 799 - Kunst und Kultur der Karolingerzeit"
+        ],
+        "person": "Johannes Rau",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/1999/07/19990723_Rede.html",
+        "id": "4e7f8bb9-ecb1-48a8-b50e-b4b3bf8ffcb0",
+        "_version_": 1619495501752696800,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "29. Mai 2007",
+        "titel": [
+          "Bundespräsident Horst Köhler im Gespräch mit dem Evangelischen Pressedienst (epd). Die Fragen stellten Rainer Clos und Thomas Schiller."
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2007/05/20070529_Rede.html",
+        "id": "ee99ad15-56c0-4bab-a6df-b27905fb9ab8",
+        "_version_": 1619495510409740300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "30.11.2007",
+        "titel": [
+          "Rede von Bundesaußenminister Steinmeier anlässlich der \"Conference of Experts on the Promotion of the Rule of Law\", 30. November 2007 in Berlin"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "untertitel": [
+          "Rede von Bundesaußenminister Steinmeier anlässlich der \"Conference of Experts on the Promotion of the Rule of Law\", 30. November 2007 in Berlin"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2007/071130-rede-steinmeier-rechtsstaatlichkeit.html",
+        "id": "1316c1a6-9b7a-45f1-b3f6-69f39776a04e",
+        "_version_": 1619495591230832600,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "17.06.2015",
+        "titel": [
+          "Laudatio von Außenminister Steinmeier auf Hans-Dietrich Genscher anlässlich der Verleihung des Henry-Kissinger-Preises"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "anrede": "Sehr geehrter Präsident Fischer,Sehr geehrter Professor Casper,Meine Damen und Herren,Lieber Hans-Dietrich Genscher,",
+        "untertitel": [
+          "Laudatio von Außenminister Steinmeier auf Hans-Dietrich Genscher anlässlich der Verleihung des Henry-Kissinger-Preises"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2015/150618_BM_Kissinger-Preis.html",
+        "id": "82a1c51f-f50d-48dc-8957-bbacdac9c715",
+        "_version_": 1619495594963763200,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "04.05.2004",
+        "titel": [
+          "Rede von Bundeskanzler Schröder beim Symposium zu Ehren von Helmut Schmidt:&quot;Globalisierung der Märkte &#150; 30 Jahre nach Rambouillet&quot;"
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "Lieber Helmut Schmidt, liebe Loki, verehrter Herr Präsident Giscard d'Estaing, meine sehr verehrten Damen und Herren!",
+        "excerpt": [
+          "Bundeskanzler Gerhard Schröder: \"Es kann eigentlich kaum einen besseren Zeitpunkt geben, um gemeinsam über Europa und die Zukunft der Globalisierung nachzudenken. Hinter uns liegt, durch den Beitritt von zehn neuen Mitgliedstaaten zur Europäischen Union, die größte Erweiterung in der Geschichte des europäischen Einigungsprozesses. Und im Juni werden die wichtigsten Wirtschaftsnationen der Welt im Kreise der G 8 zusammenkommen.\"",
+          "Bundeskanzler Gerhard Schröder: \"Es kann eigentlich kaum einen besseren Zeitpunkt geben, um gemeinsam über Europa und die Zukunft der Globalisierung nachzudenken. Hinter uns liegt, durch den Beitritt von zehn neuen Mitgliedstaaten zur Europäischen Union, die größte Erweiterung in der Geschichte des europäischen Einigungsprozesses. Und im Juni werden die wichtigsten Wirtschaftsnationen der Welt im Kreise der G 8 zusammenkommen.\"",
+          "Bundeskanzler Gerhard Schröder: \"Es kann eigentlich kaum einen besseren Zeitpunkt geben, um gemeinsam über Europa und die Zukunft der Globalisierung nachzudenken. Hinter uns liegt, durch den Beitritt von zehn neuen Mitgliedstaaten zur Europäischen Union, die größte Erweiterung in der Geschichte des europäischen Einigungsprozesses. Und im Juni werden die wichtigsten Wirtschaftsnationen der Welt im Kreise der G 8 zusammenkommen.\"",
+          "Bundeskanzler Gerhard Schröder: \"Es kann eigentlich kaum einen besseren Zeitpunkt geben, um gemeinsam über Europa und die Zukunft der Globalisierung nachzudenken. Hinter uns liegt, durch den Beitritt von zehn neuen Mitgliedstaaten zur Europäischen Union, die größte Erweiterung in der Geschichte des europäischen Einigungsprozesses. Und im Juni werden die wichtigsten Wirtschaftsnationen der Welt im Kreise der G 8 zusammenkommen.\""
+        ],
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/87/646987/multi.htm",
+        "id": "7398e70d-d231-4353-82bb-b2372673f5b1",
+        "_version_": 1619495728563880000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "12. November 2007",
+        "titel": [
+          "Rede von Bundespräsident Horst Köhler bei der Eröffnung des 9. Africa Partnership Forums"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2007/11/20071112_Rede.html",
+        "id": "3a849b6a-9a47-4123-9521-72a1f79d459c",
+        "_version_": 1619495511727800300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "19.12.2000",
+        "titel": [
+          "Rede von Bundeskanzler Gerhard Schröder anlässlich des Empfangs der Sternsinger am 19. Dezember 2000 in Berlin (BPA-Mitschrift)"
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "Anrede,",
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/17/26917/multi.htm",
+        "id": "cc89d364-8d89-45df-aa4e-f7df6dc1aa67",
+        "_version_": 1619495725293371400,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "19.01.2004",
+        "titel": [
+          "&quot;Frieden, Stabilität und Demokratie - gemeinsame Herausforderungen für die Zukunft Afrikas&quot;"
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "Herr Kommissionsvorsitzender, Exzellenzen, meine Damen und Herren,",
+        "excerpt": [
+          "Rede von Bundeskanzler Gerhard Schröder vor der Afrikanischen Union \"Frieden, Stabilität und Demokratie - gemeinsame Herausforderungen für die Zukunft Afrikas\" am Montag, 19. Januar 2004, 12.00 Uhr OZ, 10 Uhr MEZ in Addis Abeba",
+          "Rede von Bundeskanzler Gerhard Schröder vor der Afrikanischen Union \"Frieden, Stabilität und Demokratie - gemeinsame Herausforderungen für die Zukunft Afrikas\" am Montag, 19. Januar 2004, 12.00 Uhr OZ, 10 Uhr MEZ in Addis Abeba",
+          "Rede von Bundeskanzler Gerhard Schröder vor der Afrikanischen Union \"Frieden, Stabilität und Demokratie - gemeinsame Herausforderungen für die Zukunft Afrikas\" am Montag, 19. Januar 2004, 12.00 Uhr OZ, 10 Uhr MEZ in Addis Abeba",
+          "Rede von Bundeskanzler Gerhard Schröder vor der Afrikanischen Union \"Frieden, Stabilität und Demokratie - gemeinsame Herausforderungen für die Zukunft Afrikas\" am Montag, 19. Januar 2004, 12.00 Uhr OZ, 10 Uhr MEZ in Addis Abeba"
+        ],
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/18/592118/multi.htm",
+        "id": "b494d864-ed4d-4852-a7bb-701d29889b3e",
+        "_version_": 1619495725345800200,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "titel": [
+          "Deutscher Bundestag - Rede des Bundestagspräsidenten Prof. Dr. Norbert Lammert anlässlich der Feierstunde des Deutschen Bundestages: 60. Jahrestag der Konstituierung des Parlamentarischen Rates 1948"
+        ],
+        "person": "Norbert Lammert",
+        "url": "https://www.bundestag.de/parlament/praesidium/reden/2008/009/247310",
+        "id": "1bcf481a-4883-437a-b3bb-db11de58f772",
+        "_version_": 1619495819267801000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "16. August 2012",
+        "titel": [
+          "Rede von Bundeskanzlerin Angela Merkel beim Besuch der Dalhousie-Universität"
+        ],
+        "person": "Angela Merkel",
+        "anrede": "Sehr geehrter Herr Staatsminister Goodyear,sehr geehrter Herr Premierminister Dexter,sehr geehrter Herr Präsident Traves,sehr geehrte Frau Vizepräsidentin Crago,meine Damen und Herren,",
+        "url": "http://www.bundesregierung.de/Content/DE/Rede/2012/08/2012-08-17-rede-halifax.html",
+        "id": "e228b566-752e-4539-baa6-98fce7619a49",
+        "_version_": 1619495737736822800,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "18. Juni 2015",
+        "titel": [
+          "Regierungserklärung von Bundeskanzlerin Merkel"
+        ],
+        "person": "Angela Merkel",
+        "untertitel": [
+          "in Berlin"
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Regierungserklaerung/2015/2015-06-18-regierungserklaerung.html",
+        "id": "17f975a8-1d9f-4946-8541-6a841db686c1",
+        "_version_": 1619495734357262300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "22.05.2008",
+        "titel": [
+          "Rede des Chefs des Bundeskanzleramtes, Bundesminister Thomas de Maizière, anlässlich der Eröffnung des Deutschen Uhrenmuseums Glashütte"
+        ],
+        "person": "Thomas de Maizière",
+        "anrede": "Sehr geehrter Herr Minister Wöller, Sehr geehrter Herr Dr. Rentsch, Sehr geehrter Herr Reichel, Sehr geehrter Herr DreßlerSehr geehrter Herr Dr. Müller, meine sehr geehrten Damen und Herren,",
+        "excerpt": [
+          "Es gilt das gesprochene Wort!",
+          "Es gilt das gesprochene Wort!",
+          "Es gilt das gesprochene Wort!",
+          "Es gilt das gesprochene Wort!"
+        ],
+        "url": "http://www.bundesregierung.de/nn_914560/Content/DE/Archiv16/Rede/2008/05/2008-05-22-rede-chefbk-eroeffnung-uhrenmuseum,layoutVariant=Druckansicht.html",
+        "id": "e007480c-4e01-4146-a853-8475b286c00d",
+        "_version_": 1619495730967216000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "29.06.2011",
+        "titel": [
+          "Rede von Bundeskanzlerin Merkel anlässlich des Kongresses \"Finanzmarktregulierung nach der Krise – eine Zwischenbilanz\" der CDU/CSU-Bundestagsfraktion"
+        ],
+        "person": "Angela Merkel",
+        "anrede": "Meine Damen und Herren, lieber Herr Flosbach, liebe Kolleginnen und Kollegen,",
+        "excerpt": [
+          "in Berlin",
+          "in Berlin",
+          "in Berlin",
+          "in Berlin"
+        ],
+        "url": "http://www.bundesregierung.de/nn_1498/Content/DE/Rede/2011/06/2011-06-29-merkel-Kongress,layoutVariant=Druckansicht.html",
+        "id": "1d068a03-e79c-4f0d-b746-1dd4853c255c",
+        "_version_": 1619495733157691400,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "22.05.2006",
+        "titel": [
+          "Rede von Wolfgang Schäuble zur Vorstellung des Verfassungsschutzberichts"
+        ],
+        "person": "k.A.",
+        "anrede": "Anrede,",
+        "excerpt": [
+          "am 22. Mai 2006 in Berlin ",
+          "am 22. Mai 2006 in Berlin ",
+          "am 22. Mai 2006 in Berlin ",
+          "am 22. Mai 2006 in Berlin "
+        ],
+        "url": "http://www.bundesregierung.de/nn_914560/Content/DE/Archiv16/Rede/2006/05/2006-05-22-rede-von-wolfgang-schaeuble-zur-vorstellung-des-verfassungsschutzberichts,layoutVariant=Druckansicht.html",
+        "id": "4a7689d1-9cba-4ce9-bf41-19c51c49c718",
+        "_version_": 1619495729379672000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "30.09.2016",
+        "titel": [
+          "Grußwort von Staatsministerin Böhmer beim 2. Außenwirtschaftstag \"Digitale Innovation, Informations- und Kommunikationstechnologie\""
+        ],
+        "person": "Maria Böhmer",
+        "anrede": "Lieber Herr Dirks,liebe Frau Zypries,sehr geehrte Damen und Herren,",
+        "untertitel": [
+          "Grußwort von Staatsministerin Böhmer beim 2. Außenwirtschaftstag \"Digitale Innovation, Informations- und Kommunikationstechnologie\""
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2016/160930_StM_B_IKT.html",
+        "id": "d37a4e20-b118-472b-aa7d-9e62d1efa212",
+        "_version_": 1619495595499585500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "30.06.2011",
+        "titel": [
+          "Rede von Bundeskanzlerin Angela Merkel anlässlich des Deutschen Bauerntags 2011"
+        ],
+        "person": "Angela Merkel",
+        "anrede": "Anrede,",
+        "excerpt": [
+          "in Koblenz",
+          "in Koblenz",
+          "in Koblenz",
+          "in Koblenz"
+        ],
+        "url": "http://www.bundesregierung.de/nn_1498/Content/DE/Rede/2011/06/2011-06-30-merkel-deutscher-bauerntag,layoutVariant=Druckansicht.html",
+        "id": "57123e69-aab0-44b7-9ba3-6d445150d811",
+        "_version_": 1619495733162934300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "12. Dezember 2011",
+        "titel": [
+          "Eröffnung der Wirtschaftskonferenz \"UAE - German Business Forum\""
+        ],
+        "person": "Christian Wulff",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2011/12/111212-German-Business-Forum.html",
+        "id": "96cba33e-b454-469c-9443-92e757b52d8f",
+        "_version_": 1619495501639450600,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "9. Februar 2010",
+        "titel": [
+          "Ansprache von Bundespräsident Horst Köhler anlässlich eines Mittagessens, gegeben von den koreanischen Wirtschaftsverbänden, beim Staatsbesuch in der Republik Korea"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2010/02/20100209_Rede.html",
+        "id": "43dfdc0e-a462-4087-a3a0-8199f76a2605",
+        "_version_": 1619495511999381500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "16. Juni 2009",
+        "titel": [
+          "Grußwort von Bundespräsident Horst Köhler bei der Festveranstaltung &apos;125 Jahre Deutscher Sparkassen- und Giroverband200 Jahre Sparkassen&apos;"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2009/06/20090616_Rede.html",
+        "id": "e6e79fe2-7d8c-4701-9afc-64ecac10dfaa",
+        "_version_": 1619495502787641300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "05.09.2006",
+        "titel": [
+          "Eröffnungsrede von Bundesaußenminister Steinmeier anlässlich des Wirtschaftstages der Botschafterkonferenz im Auswärtigen Amt"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "anrede": "Lieber Herr Reitzle,meine sehr geehrten Damen und Herren,",
+        "untertitel": [
+          "Eröffnungsrede von Bundesaußenminister Steinmeier anlässlich des Wirtschaftstages der Botschafterkonferenz im Auswärtigen Amt"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2006/060905-BM-BoKo-Wi.html",
+        "id": "21191d22-665a-40f4-9b7f-5db1c6cba3b9",
+        "_version_": 1619495595644289000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "02.03.2007",
+        "titel": [
+          "\"Afrika: Partnerschaft auf gleicher Augenhöhe\" – Rede von Bundesminister Steinmeier vor dem Deutschen Bundestag am 02.03.07"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "untertitel": [
+          "\"Afrika: Partnerschaft auf gleicher Augenhöhe\" – Rede von Bundesminister Dr. Frank-Walter Steinmeier vor dem Deutschen Bundestag"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2007/070302-BTAfrika.html",
+        "id": "5f32ea64-f813-4f86-8ca4-39055d4e186a",
+        "_version_": 1619495595825692700,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "06.02.2007",
+        "titel": [
+          "Rede des Kanzleramtschefs Thomas de Maizière beim 3. Gemeinsamen Parlamentariertreffen zur Lissabon-Strategie"
+        ],
+        "person": "Thomas de Maizière",
+        "anrede": "Sehr verehrter Herr Präsident Pöttering, sehr verehrte Frau Vizepräsidentin Kastner, Sehr geehrter Herr Kommissionspräsident Barroso, meine Damen und Herren,",
+        "excerpt": [
+          "am 06. Februar 2007 in Brüssel",
+          "am 06. Februar 2007 in Brüssel",
+          "am 06. Februar 2007 in Brüssel",
+          "am 06. Februar 2007 in Brüssel"
+        ],
+        "url": "http://www.bundesregierung.de/nn_914560/Content/DE/Archiv16/Rede/2007/02/2007-02-07-rede-de-maiziere-bruessel-parlamentariatstreffen,layoutVariant=Druckansicht.html",
+        "id": "dd2a6a84-8073-40d8-937e-ee6f60d0ddb8",
+        "_version_": 1619495730045517800,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "09.07.2008",
+        "titel": [
+          "Rede des Bundesaußenministers Frank-Walter Steinmeier bei der Gesellschaft für Außenpolitik am 9. Juli 2008 in München"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "untertitel": [
+          "\"Friedenspolitik im Zeitalter der Globalisierung\" - Rede des Bundesaußenministers Frank-Walter Steinmeier bei der Gesellschaft für Außenpolitik in München"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2008/080709-BM-DGAP.html",
+        "id": "a7b40afa-3e2f-49a2-b560-312ca532ef2a",
+        "_version_": 1619495590984417300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "02.09.1999",
+        "titel": [
+          "Rede von Bundeskanzler Gerhard Schröder zur offiziellen Eröffnung des Sitzes der Deutschen Gesellschaft für Auswärtige Politik - &quot;Außenpolitische Verantwortung Deutschlands in der Welt&quot; "
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "Sehr geehrter Herr Dr. Cartellieri, Meine sehr verehrten Damen und Herren,",
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/14/11714/multi.htm",
+        "id": "d191f659-7868-48c6-9e7f-380e4a5937a9",
+        "_version_": 1619495725063733200,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "19. März 2015",
+        "titel": [
+          "Regierungserklärung von Bundeskanzlerin Merkel zum Europäischen Rat am 19. und 20. März 2015"
+        ],
+        "person": "Angela Merkel",
+        "untertitel": [
+          "in Berlin"
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Regierungserklaerung/2015/2015-03-19-regierungserklearung.html",
+        "id": "1b7d915c-5eaa-4659-ab3f-c9006233ddbf",
+        "_version_": 1619495734360408000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "5. Juni 2007",
+        "titel": [
+          "Grußwort von Bundespräsident Horst Köhler zur Eröffnung der \"Woche der Umwelt\" im Park von Schloss Bellevue"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2007/06/20070605_Rede.html",
+        "id": "23a2929a-ad79-4622-8fba-495d9c27429c",
+        "_version_": 1619495501540884500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "5. Februar 2010",
+        "titel": [
+          "Founders&apos; Day Lecture von Bundespräsident Horst Köhler anlässlich eines Abendessens, gegeben von der Deutsch-Indischen Handelskammer, beim Staatsbesuch in Indien"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2010/02/20100205_Rede.html",
+        "id": "4ccc2682-7405-4849-a40d-b8bb6a68d818",
+        "_version_": 1619495502013792300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "25. Januar 2002",
+        "titel": [
+          "Ansprache von Bundespräsident Johannes Rau vor der Nationalversammlung Malis"
+        ],
+        "person": "Johannes Rau",
+        "anrede": "Herr Präsident der Nationalversammlung,Herr Premierminister,meine Damen und Herren Abgeordnete,meine Damen und Herren,",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/2002/01/20020125_Rede.html",
+        "id": "4db1cd35-10ab-417e-ae78-85823b7b9f26",
+        "_version_": 1619495508762427400,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "22.11.1999",
+        "titel": [
+          "Ansprache von Bundeskanzler Gerhard Schröder beim Jahresempfang für das Diplomatische Korps"
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "Sehr verehrter Herr Nuntius, Exzellenzen, meine sehr verehrten Damen und Herren,",
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/41/11741/multi.htm",
+        "id": "4bfc1fc4-b7c3-4b69-be5f-656e4bccd911",
+        "_version_": 1619495726497136600,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "03. September 2013",
+        "titel": [
+          "Rede von Bundeskanzlerin Merkel zur Debatte \"Zur Situation in Deutschland\""
+        ],
+        "person": "Angela Merkel",
+        "untertitel": [
+          "Im Deutschen Bundestag"
+        ],
+        "url": "http://www.bundesregierung.de/Content/DE/Rede/2013/09/020013-09-03-merkel-bt.html",
+        "id": "f23e6816-6446-4a21-a315-50f241c7ca87",
+        "_version_": 1619495733825634300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "03. September 2013",
+        "titel": [
+          "Rede von Bundeskanzlerin Merkel zur Debatte \"Zur Situation in Deutschland\""
+        ],
+        "person": "Angela Merkel",
+        "untertitel": [
+          "Im Deutschen Bundestag"
+        ],
+        "url": "http://www.bundesregierung.de/Content/DE/Rede/2013/09/2013-09-03-merkel-bt.html",
+        "id": "3e115a35-1567-4db0-9a84-1886743345a8",
+        "_version_": 1619495734475751400,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "22. April 2012",
+        "titel": [
+          "Rede von Bundeskanzlerin Angela Merkel bei der Eröffnung der Hannover Messe"
+        ],
+        "person": "Angela Merkel",
+        "anrede": "Sehr geehrter Herr Premierminister, lieber Wen Jiabao,",
+        "untertitel": [
+          "in Hannover"
+        ],
+        "url": "http://www.bundesregierung.de/Content/DE/Rede/2012/04/2012-04-22-bkin-hannover-messe.html",
+        "id": "2ba0cc2e-591c-4565-8e6e-6b76041c71f6",
+        "_version_": 1619495737022742500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "07.11.2001",
+        "titel": [
+          "Rede von Bundeskanzler Schröder anlässlich des Festaktes zum 40jährigen Bestehen des Bundesministeriums für wirtschaftliche Zusammenarbeit"
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "Liebe Heidemarie Wieczorek-Zeul!Verehrte Herren Minister außer Diensten!Lieber Kardinal Lehmann!Meine sehr verehrten Damen und Herren!",
+        "excerpt": [
+          "Der Bundeskanzler zu den Aufgaben der Entwicklungspolitik heute, zum Kampf gegen den internationalen Terrorismus und zur Rolle der Entwicklungspolitik und der wirtschaftlichen Zusammenarbeit in diesem Kampf.",
+          "Der Bundeskanzler zu den Aufgaben der Entwicklungspolitik heute, zum Kampf gegen den internationalen Terrorismus und zur Rolle der Entwicklungspolitik und der wirtschaftlichen Zusammenarbeit in diesem Kampf.",
+          "Der Bundeskanzler zu den Aufgaben der Entwicklungspolitik heute, zum Kampf gegen den internationalen Terrorismus und zur Rolle der Entwicklungspolitik und der wirtschaftlichen Zusammenarbeit in diesem Kampf.",
+          "Der Bundeskanzler zu den Aufgaben der Entwicklungspolitik heute, zum Kampf gegen den internationalen Terrorismus und zur Rolle der Entwicklungspolitik und der wirtschaftlichen Zusammenarbeit in diesem Kampf."
+        ],
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/20/62020/multi.htm",
+        "id": "c87afe65-17ea-4e08-b4ab-d179cffdcc09",
+        "_version_": 1619495725461143600,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "27. April 2009",
+        "titel": [
+          "Auf dem Weg zu echter Partnerschaft - Tischrede von Bundespräsident Horst Köhler anlässlich eines Mittagessens mit ehemaligen afrikanischen Präsidenten anlässlich des \"African Presidential Roundtable\" 2009"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2009/04/20090427_Rede.html",
+        "id": "d9348628-b8ff-46d4-b019-1c862f19db6c",
+        "_version_": 1619495508330414000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "06.09.2000",
+        "titel": [
+          "Rede von Bundeskanzler Schröder vor den Vereinten Nationen anlässlich des Millenniumsgipfels "
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "Herr Präsident, Frau stellvertretende Generalsekretärin, meine sehr verehrten Damen und Herren!",
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/85/17485/multi.htm",
+        "id": "1a6be921-b67f-4c78-8b6a-ef212ca1820b",
+        "_version_": 1619495728467411000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "6. Mai 2011",
+        "titel": [
+          "Mittagessen, gegeben vom Vorstand der Außenhandelskammer São Paulo"
+        ],
+        "person": "Christian Wulff",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2011/05/110506-Brasilien-Aussenhandelskammer.html",
+        "id": "76b84173-ff49-44f6-9b54-d510e922504f",
+        "_version_": 1619495507593265200,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "03.09.2007",
+        "titel": [
+          "Rede des Bundesaußenministers anlässlich der Eröffnung der Botschafterkonferenz im Auswärtigen Amt"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "anrede": "Sehr geehrter Herr Generalsekretär Ong,meine sehr verehrten Damen und Herren,",
+        "untertitel": [
+          "Rede des Bundesaußenministers anlässlich der Eröffnung der Botschafterkonferenz im Auswärtigen Amt"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2007/070903-SteinmeierBoKo.html",
+        "id": "2c594f83-4d4f-4308-987e-b276f974c651",
+        "_version_": 1619495595750195200,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "20. März 2014",
+        "titel": [
+          "Regierungserklärung von Bundeskanzlerin Merkel"
+        ],
+        "person": "Angela Merkel",
+        "untertitel": [
+          "in Berlin"
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Regierungserklaerung/2014/2014-03-20-bt-merkel.html",
+        "id": "ea6aab7d-92a8-4b18-ae8a-aacd61705645",
+        "_version_": 1619495737468387300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "9. Mai 2011",
+        "titel": [
+          "Abendessen zu Ehren des Präsidenten der Republik Korea, Lee Myung-bak"
+        ],
+        "person": "Christian Wulff",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2011/05/110509-Praesident-Korea-Abendessen.html",
+        "id": "9cc14c12-9bd8-48f9-9c87-ec7361ba79bd",
+        "_version_": 1619495503972532200,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "05.07.2001",
+        "titel": [
+          "Rede des Staatsministers Hans Martin Bury in der Debatte des Deutschen Bundestages zum Klimaschutz"
+        ],
+        "person": "Hans Martin Bury",
+        "anrede": "Anrede,",
+        "excerpt": [
+          "Mit der am 16. Juli in Bonn beginnenden Klimakonferenz der Vereinten Nationen gehen die jahrelangen Bemühungen um ein verbindliches Klimaschutz-Abkommen in die entscheidende Phase.",
+          "Mit der am 16. Juli in Bonn beginnenden Klimakonferenz der Vereinten Nationen gehen die jahrelangen Bemühungen um ein verbindliches Klimaschutz-Abkommen in die entscheidende Phase.",
+          "Mit der am 16. Juli in Bonn beginnenden Klimakonferenz der Vereinten Nationen gehen die jahrelangen Bemühungen um ein verbindliches Klimaschutz-Abkommen in die entscheidende Phase.",
+          "Mit der am 16. Juli in Bonn beginnenden Klimakonferenz der Vereinten Nationen gehen die jahrelangen Bemühungen um ein verbindliches Klimaschutz-Abkommen in die entscheidende Phase."
+        ],
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/47/47547/multi.htm",
+        "id": "78f5c089-743a-42d5-8c27-5aafffbbdc3d",
+        "_version_": 1619495726776057900,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "25. Januar 2012",
+        "titel": [
+          "Rede von Bundeskanzlerin Angela Merkel beim Jahrestreffen 2012 des World Economic Forums"
+        ],
+        "person": "Angela Merkel",
+        "anrede": "Sehr geehrter Herr Professor Schwab,",
+        "url": "http://www.bundesregierung.de/Content/DE/Rede/2012/01/2012-01-25-bkin-davos.html",
+        "id": "bdf42b5f-bec1-4d7f-8dea-a144c3506095",
+        "_version_": 1619495734279667700,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "24. Juni 2003",
+        "titel": [
+          "Rede von Bundespräsident Johannes Rau beim Festakt zum vierzigjährigen Jubiläum des Deutschen Entwicklungsdienstes"
+        ],
+        "person": "Johannes Rau",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/2003/06/20030624_Rede.html",
+        "id": "abd02a3c-09b2-43a4-a703-d71b4337afea",
+        "_version_": 1619495501856505900,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "11.09.2015",
+        "titel": [
+          "Rede von Außenminister Steinmeier im Deutschen Bundestag im Rahmen der Haushaltsdebatte"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "anrede": "Herr Präsident! Liebe Kolleginnen und Kollegen!",
+        "untertitel": [
+          "Rede von Außenminister Steinmeier im Deutschen Bundestag im Rahmen der Haushaltsdebatte"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2015/150910-BM-BT-Haushalt.html",
+        "id": "c30903af-4bde-4c71-875a-6096d8d416bb",
+        "_version_": 1619495591087177700,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "26.11.2008",
+        "titel": [
+          "Haushaltsrede BM Steinmeier, 26. November 2008, Deutscher Bundestag"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "untertitel": [
+          "Rede BM Steinmeier, 2. Lesung des Bundeshaushalts 2009, 26. November 2008, Deutscher Bundestag"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2008/081126-haushaltsrede-steinmeier.html",
+        "id": "2f357453-4fe6-4200-bc8a-01e825a884bc",
+        "_version_": 1619495591476199400,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "22.11.2006",
+        "titel": [
+          "Rede von Bundesaußenminister Steinmeier vor dem Deutschen Bundestag anlässlich der Haushaltsdebatte zu den außenpolitischen Herausforderungen 2007, 22.11.2006"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "untertitel": [
+          "\"Eher mehr als weniger Außenpolitik\" - Rede von Bundesaußenminister Steinmeier vor dem Deutschen Bundestag anlässlich der Haushaltsdebatte zu den außenpolitischen Herausforderungen 2007"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2006/061122-Haushaltsdebatte.html",
+        "id": "e773f1d3-57b7-40f2-a44a-0ee1b465ede0",
+        "_version_": 1619495591662846000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "13.10.2006",
+        "titel": [
+          "Rede von Staatsminister Erler auf der Konferenz \"Schwarzmeerkooperation – Energieversorgung und Energiesicherheit\", Sofia, 13.10.2006"
+        ],
+        "person": "Gernot Erler",
+        "untertitel": [
+          "\"Regionale Kooperation und Energiesicherheit\" - Rede von Staatsminister Erler auf der Konferenz \"Schwarzmeerkooperation – Energieversorgung und Energiesicherheit\", Sofia, 13.10.2006"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2006/061013-ErlerEnergiepolitik.html",
+        "id": "f945462e-9d70-4926-b16e-7bcbec94e627",
+        "_version_": 1619495595021435000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "04.12.2006",
+        "titel": [
+          "Rede von Bundeskanzlerin Angela Merkel anlässlich der Fünften Maritimen Konferenz"
+        ],
+        "person": "Angela Merkel",
+        "anrede": "Meine Damen und Herren,",
+        "url": "http://www.bundesregierung.de/nn_914560/Content/DE/Archiv16/Rede/2006/12/2006-12-04-rede-bkin-maritime-konferenz,layoutVariant=Druckansicht.html",
+        "id": "a3925b82-b9ee-4943-8096-e36709a2b553",
+        "_version_": 1619495729924931600,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "15. Dezember 2003",
+        "titel": [
+          "Tischrede von Bundespräsident Johannes Rau anlässlich des Staatsbanketts zu Ehren des Staatspräsidenten von Mali, Herrn Amadou Toumani Touré"
+        ],
+        "person": "Johannes Rau",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/2003/12/20031215_Rede.html",
+        "id": "8fce0d40-2f21-4224-9221-5fe013db22a4",
+        "_version_": 1619495508768718800,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "4. März 2013",
+        "titel": [
+          "Staatsbankett zu Ehren des Präsidenten der Republik Indonesien, Susilo Bambang Yudhoyono"
+        ],
+        "person": "Joachim Gauck",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Joachim-Gauck/Reden/2013/03/130304-Indonesien-Staatsbankett.html",
+        "id": "255b63ee-1117-4444-9ece-d0ae5955be39",
+        "_version_": 1619495510536618000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "1. Juni 2007",
+        "titel": [
+          "Beitrag von Bundespräsident Horst Köhler in der Frankfurter Rundschau, Ausgabe vom 1.6.2007"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2007/06/20070601_Rede.html",
+        "id": "2057eb1e-b10d-43a8-9799-02db77d7155a",
+        "_version_": 1619495504038592500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "12.03.2007",
+        "titel": [
+          "Rede von Bundesaußenminister Steinmeier vor dem Menschenrechtsrat der Vereinten Nationen"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "anrede": "Herr Präsident,meine Damen und Herren,",
+        "untertitel": [
+          "Rede von Bundesaußenminister Steinmeier vor dem Menschenrechtsrat der Vereinten Nationen"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2007/070312-MRR-Genf.html",
+        "id": "b43032f2-5813-4e87-a7ec-5ff696717c03",
+        "_version_": 1619495595654774800,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "08.03.2005",
+        "titel": [
+          "Politik und Wirtschaft müssen industrielle Basis sichern"
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "Lieber Herr Thumann, meine sehr verehrten Damen und Herren!",
+        "excerpt": [
+          "Auf dem Rohstoffkongress des BDI hat Bundeskanzler Gerhard Schröder die Wirtschaft zu einer engen Abstimmung mit der Politik aufgerufen: Eine sichere Rohstoffversorgung ist eine Grundvoraussetzung für das Funktionieren einer hochtechnologischen Industrienation wie Deutschland, die von der Umwandlung von Rohstoffen in anspruchsvolle Produkte lebt, sagte Schröder.",
+          "Auf dem Rohstoffkongress des BDI hat Bundeskanzler Gerhard Schröder die Wirtschaft zu einer engen Abstimmung mit der Politik aufgerufen: Eine sichere Rohstoffversorgung ist eine Grundvoraussetzung für das Funktionieren einer hochtechnologischen Industrienation wie Deutschland, die von der Umwandlung von Rohstoffen in anspruchsvolle Produkte lebt, sagte Schröder.",
+          "Auf dem Rohstoffkongress des BDI hat Bundeskanzler Gerhard Schröder die Wirtschaft zu einer engen Abstimmung mit der Politik aufgerufen: Eine sichere Rohstoffversorgung ist eine Grundvoraussetzung für das Funktionieren einer hochtechnologischen Industrienation wie Deutschland, die von der Umwandlung von Rohstoffen in anspruchsvolle Produkte lebt, sagte Schröder.",
+          "Auf dem Rohstoffkongress des BDI hat Bundeskanzler Gerhard Schröder die Wirtschaft zu einer engen Abstimmung mit der Politik aufgerufen: Eine sichere Rohstoffversorgung ist eine Grundvoraussetzung für das Funktionieren einer hochtechnologischen Industrienation wie Deutschland, die von der Umwandlung von Rohstoffen in anspruchsvolle Produkte lebt, sagte Schröder."
+        ],
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/11/799011/multi.htm",
+        "id": "de77ab56-b13a-455c-be30-aa6fff6fb4ff",
+        "_version_": 1619495724860309500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "30. Mai 2011",
+        "titel": [
+          "Abendessen für die Mitglieder des Ordens Pour le mérite für Wissenschaften und Künste"
+        ],
+        "person": "Christian Wulff",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2011/05/110530-Pour-le-merite.html",
+        "id": "6874277b-677c-47a8-b95c-51a3d7b6a557",
+        "_version_": 1619495499505598500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "26.05.2011",
+        "titel": [
+          "\"Noch braucht der Libanon unsere Hilfe\""
+        ],
+        "person": "k.A.",
+        "untertitel": [
+          "\"Noch braucht der Libanon unsere Hilfe\""
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2011/110526-BM-UNIFIL.html",
+        "id": "1fcd3c85-8b3e-43cf-8825-dc557e5a5ac7",
+        "_version_": 1619495591719469000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "04.05.2009",
+        "titel": [
+          "Rede von Guido Westerwelle bei der Deutschen Gesellschaft für Auswärtige Politik e.V."
+        ],
+        "person": "Guido Westerwelle",
+        "anrede": "Lieber Herr Dr. Oetker,lieber Herr von Nordenskjöld,meine sehr verehrten Damen und Herren,Meine Damen und Herren,",
+        "untertitel": [
+          "Rede von Guido Westerwelle bei der Deutschen Gesellschaft für Auswärtige Politik e.V."
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2009/090504-Westerwelle.html",
+        "id": "e60410ba-07d4-4ae4-82ba-5ae6a3d7aa9d",
+        "_version_": 1619495590410846200,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "14.10.2015",
+        "titel": [
+          "Rede von Außenminister Frank-Walter Steinmeier im Deutschen Bundestag zu \"70 Jahre Vereinte Nationen\""
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "anrede": "Herr Präsident! Liebe Kolleginnen und Kollegen!",
+        "untertitel": [
+          "Rede von Außenminister Frank-Walter Steinmeier im Deutschen Bundestag zu \"70 Jahre Vereinte Nationen\""
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2015/151014_BM_70_Jahre_VN.html",
+        "id": "82d38ef9-674b-4d56-aedc-50f7d3ca7785",
+        "_version_": 1619495590903677000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "24. September 2015",
+        "titel": [
+          "Regierungserklärung von Bundeskanzlerin Merkel"
+        ],
+        "person": "Angela Merkel",
+        "untertitel": [
+          "in Berlin vor dem Deutschen Bundestag (Protokoll des Deutschen Bundestages)"
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Regierungserklaerung/2015/2015-09-24-regierungserklaerung.html",
+        "id": "ad057366-1b8e-4891-a0fd-5f5eb0f8910f",
+        "_version_": 1619495733491138600,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "24. Oktober 1999",
+        "titel": [
+          "Verleihung des Medienpreises Entwicklungspolitik"
+        ],
+        "person": "Johannes Rau",
+        "anrede": "Liebe Preisträgerinnen und Preisträger,meine Damen und Herren,",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/1999/10/19991024_Rede.html",
+        "id": "e473d316-4cfa-423f-a72a-9b7e1a13b473",
+        "_version_": 1619495500830998500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "07. September 2016",
+        "titel": [
+          "Rede von Kulturstaatsministerin Grütters in der Haushaltsdebatte"
+        ],
+        "person": "Monika Grütters",
+        "untertitel": [
+          "Gerade in Zeiten, in denen harte Interessenkonflikte politische Beziehungen auf Bewährungsproben stellten, sei es die Kultur, die Brücken baue, erklärte Kulturstaatsministerin Grütters im Deutschen Bundestag. So entstehe etwa mit Humboldt Forum ein Weltkulturmuseum, \"das die Verständigung zwischen den Kulturen fördert\"."
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Rede/2016/09/2016-09-07-gruetters-haushalt.html",
+        "id": "4d748cdc-e014-4880-926f-9d00d96103e9",
+        "_version_": 1619495736939905000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "26. März 2015",
+        "titel": [
+          "Rede von Kulturstaatsministerin Monika Grütters zur Eröffnung der Ausstellung \"Tel Aviv Museum of Art visits Berlin\""
+        ],
+        "person": "Monika Grütters",
+        "untertitel": [
+          "\"Es ist eine berührende Geste der Versöhnung und der Freundschaft zwischen Deutschland und Israel, dass wir die Ausstellung des Tel Aviv Museums of Art im Jahr 2015 in der deutschen Hauptstadt zeigen dürfen\", betonte Staatsministerin Grütters in ihrer Rede."
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Rede/2015/03/2015-03-26-gruetters-ausstellungseroeffnung-tel-aviv-museum-of-art.html",
+        "id": "e80d10c8-41d0-4465-99f7-e50063b3c781",
+        "_version_": 1619495737568002000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "01.02.1999",
+        "titel": [
+          "Rede von Bundeskanzler Gerhard Schröder anläßlich des World Economic Forum in Davos am Montag, 1. Februar 1999"
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "Anrede,",
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/92/11692/multi.htm",
+        "id": "6bb0c135-da66-4f0e-902b-062126d29265",
+        "_version_": 1619495728757866500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "21. Januar 2002",
+        "titel": [
+          "Tischrede von Bundespräsident Johannes Rau anlässlich des Abendessens, gegeben vom Präsidenten der Republik Südafrika Herrn Thabo Mbeki in Pretoria am 21. Januar 2002"
+        ],
+        "person": "Johannes Rau",
+        "anrede": "Herr Präsident,sehr verehrte Frau Mbeki,",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Johannes-Rau/Reden/2002/01/20020121_Rede.html",
+        "id": "8b1469b3-674e-4cc2-bda5-a7459e29a27f",
+        "_version_": 1619495502678589400,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "15. Januar 2009",
+        "titel": [
+          "Antwort auf die Krise: Eine neue, kooperative Weltpolitik - Ansprache des Bundespräsidenten beim Neujahrsempfang für das Diplomatische Korps"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2009/01/20090115_Rede.html",
+        "id": "32add8ae-801d-42f0-ac4d-4b20d785de34",
+        "_version_": 1619495510224142300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "21. April 2007",
+        "titel": [
+          "Bundespräsident Horst Köhler im Gespräch mit dem Bonner \"Generalanzeiger\""
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2007/04/20070421_Rede.html",
+        "id": "ba4aca43-6f2b-4eb9-910e-99346f252b42",
+        "_version_": 1619495511104946200,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "28.09.2012",
+        "titel": [
+          "Rede von Außenminister Guido Westerwelle vor der VN-Generalversammlung in New York, 29.09.2012"
+        ],
+        "person": "Guido Westerwelle",
+        "anrede": "Herr Präsident,meine Damen und Herren,",
+        "untertitel": [
+          "Rede von Außenminister Guido Westerwelle vor der VN-Generalversammlung in New York, 29.09.2012"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2012/120929_Rede_BM_Generalversammlung.html",
+        "id": "3247f193-403f-46ef-a195-2c8fd29daa5f",
+        "_version_": 1619495590947717000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "19.10.2006",
+        "titel": [
+          "Rede von Bundesaußenminister Steinmeier zum Thema Abrüstung und Nichtverbreitung vor dem Deutschen Bundestag"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "anrede": "Herr Präsident! Meine Damen und Herren!",
+        "untertitel": [
+          "Rede von Bundesaußenminister Steinmeier zum Thema Abrüstung und Nichtverbreitung vor dem Deutschen Bundestag"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2006/061019-Abruestung-Bundestag.html",
+        "id": "16d0414b-acca-4ef0-81df-00c5a8df4d14",
+        "_version_": 1619495592514289700,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "titel": [
+          "Deutscher Bundestag - Rede des Bundestagspräsidenten Prof. Dr. Norbert Lammert anlässlich der 50. Gewerkschaftspolitischen Arbeitstagung des DBB Beamtenbundes und Tarifunion in Köln"
+        ],
+        "person": "Norbert Lammert",
+        "url": "https://www.bundestag.de/parlament/praesidium/reden/2009/001/247396",
+        "id": "c8665317-f2aa-44b7-b80b-4cb65814ff54",
+        "_version_": 1619495819014045700,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "29. April 2010",
+        "titel": [
+          "Rede von Bundespräsident Horst Köhler beim IX. Munich Economic Summit"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2010/04/20100429_Rede.html",
+        "id": "01cf7485-e9b0-4ccf-9435-8895fd68a6f8",
+        "_version_": 1619495504171761700,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "27.04.2000",
+        "titel": [
+          "Rede von Bundeskanzler Gerhard Schröder beim Afrika-Wirtschaftsforum 2000 "
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "meine Herren Staatspräsidenten, meine Herren Premierminister, Exzellenzen, sehr geehrter Herr Schrempp, sehr geehrter Herr Nordmann, meine Damen und Herren!",
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/22/8222/multi.htm",
+        "id": "d4e7ac5e-2434-4bc4-bf8a-c7964cd67507",
+        "_version_": 1619495725574389800,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "08.09.2006",
+        "titel": [
+          "Rede von Kanzleramtsminister Thomas de Maizière auf der Jahrestagung des Markenverbandes e.V."
+        ],
+        "person": "Thomas de Maizière",
+        "anrede": "Sehr geehrter Herr Präsident Falke, meine Damen und Herren!",
+        "excerpt": [
+          "am 8. September in Berlin",
+          "am 8. September in Berlin",
+          "am 8. September in Berlin",
+          "am 8. September in Berlin"
+        ],
+        "url": "http://www.bundesregierung.de/nn_914560/Content/DE/Archiv16/Rede/2006/09/2006-09-13-rede-chefbk-markenverband,layoutVariant=Druckansicht.html",
+        "id": "05b07542-d5d8-4792-a5b2-7ec29e579bff",
+        "_version_": 1619495729640767500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "07.11.2008",
+        "titel": [
+          "Rede des Chefs des Bundeskanzleramtes, Bundesminister Thomas de Maizière, anlässlich des Amtantritts des Bundesratspräsidenten"
+        ],
+        "person": "Thomas de Maizière",
+        "anrede": "Sehr geehrter Herr Präsident! Meine Damen und Herren!Liebe Kolleginnen und Kollegen!",
+        "excerpt": [
+          "am 7. November 2008 in Berlin",
+          "am 7. November 2008 in Berlin",
+          "am 7. November 2008 in Berlin",
+          "am 7. November 2008 in Berlin"
+        ],
+        "url": "http://www.bundesregierung.de/nn_914560/Content/DE/Archiv16/Rede/2008/11/2008-11-07-chefbk-bt,layoutVariant=Druckansicht.html",
+        "id": "cc209c4a-ab6e-4f37-ad3b-5b441cc5d19c",
+        "_version_": 1619495731338412000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "23.11.2011",
+        "titel": [
+          "Rede von Bundeskanzlerin Merkel in der Generaldebatte zum Bundeshaushalt 2012 im Deutschen Bundestag"
+        ],
+        "person": "Angela Merkel",
+        "anrede": "Herr Präsident!Liebe Kolleginnen und Kollegen!",
+        "excerpt": [
+          "Plenarprotokoll des Deutschen Bundestages",
+          "Plenarprotokoll des Deutschen Bundestages",
+          "Plenarprotokoll des Deutschen Bundestages",
+          "Plenarprotokoll des Deutschen Bundestages"
+        ],
+        "url": "http://www.bundesregierung.de/nn_1498/Content/DE/Rede/2011/11/2011-11-23-bkin-haushalt,layoutVariant=Druckansicht.html",
+        "id": "f24fce2a-993f-4e12-b3a5-11488dbcb6e6",
+        "_version_": 1619495733308686300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "23. November 2016",
+        "titel": [
+          "Rede von Bundeskanzlerin Merkel"
+        ],
+        "person": "Angela Merkel",
+        "untertitel": [
+          "in Berlin vor dem Deutschen Bundestag (Protokoll des Deutschen Bundestages)"
+        ],
+        "url": "https://www.bundesregierung.de/Content/DE/Rede/2016/11/2016-11-24-rede-bkin-merkel-haushalt.html",
+        "id": "99293aa7-e9b2-44c2-a06e-7b868818f48c",
+        "_version_": 1619495733836120000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "2. Februar 2010",
+        "titel": [
+          "Ansprache von Bundespräsident Horst Köhler anlässlich eines Mittagessens gegeben von den vier indischen Wirtschaftsverbänden beim Staatsbesuch in Indien"
+        ],
+        "person": "Horst Köhler",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Horst-Koehler/Reden/2010/02/20100202_Rede.html",
+        "id": "92f47217-3ac8-47cd-9988-aaaa26f4ea23",
+        "_version_": 1619495502764572700,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "28.02.2007",
+        "titel": [
+          "Rede von Bundesaußenminister Steinmeier in der Debatte des Deutschen Bundestags zum Einsatz bewaffneter deutscher Streitkräfte in Afghanistan, 28.02.2007"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "untertitel": [
+          "Rede von Bundesaußenminister Steinmeier in der Debatte des Deutschen Bundestags zum Einsatz bewaffneter deutscher Streitkräfte in Afghanistan"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2007/070228-AfghanistanBT.html",
+        "id": "e20de32a-aa6a-4e49-80eb-c6e42192c461",
+        "_version_": 1619495596755779600,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "24. Mai 2006",
+        "titel": [
+          "Rede anläßlich der Buchhändlertage des Börsenvereins des deutschen Buchhandels"
+        ],
+        "person": "Norbert Lammert",
+        "id": "9026a34e-87fc-4c03-87f6-efba7076bf26",
+        "_version_": 1619495819851858000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "11.03.2010",
+        "titel": [
+          "Rede von Bundesaußenminister Guido Westerwelle vor Vertretern der deutschen Wirtschaft in der AHK Mercosul, São Paulo"
+        ],
+        "person": "Guido Westerwelle",
+        "anrede": "Sehr geehrter Herr Präsident Porto,",
+        "untertitel": [
+          "Rede von Bundesaußenminister Guido Westerwelle vor Vertretern der deutschen Wirtschaft in der Außenhandelskammer Mercosul, São Paulo"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2010/100311BM-Mercosul.html",
+        "id": "51b6c26b-8a97-4a4f-ac35-98b1bcfb2c31",
+        "_version_": 1619495590136119300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "27.09.2010",
+        "titel": [
+          "Rede von Bundeskanzlerin Angela Merkel auf der 10. Jahreskonferenz des Rates für Nachhaltige Entwicklung"
+        ],
+        "person": "Angela Merkel",
+        "anrede": "Sehr geehrter Herr Vorsitzender, lieber Hans-Peter Repnik, sehr geehrte Ratsmitglieder, meine sehr verehrten Damen und Herren,",
+        "excerpt": [
+          "in Berlin",
+          "in Berlin",
+          "in Berlin",
+          "in Berlin"
+        ],
+        "url": "http://www.bundesregierung.de/nn_1498/Content/DE/Rede/2010/09/2010-09-27-merkel-jahreskonferenz-nachhaltige-entwicklung,layoutVariant=Druckansicht.html",
+        "id": "c87663d9-b909-46b6-8690-c0ad0a78d518",
+        "_version_": 1619495732649132000,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "14.09.2006",
+        "titel": [
+          "Rede von Staatsminister Erler anlässlich der internationalen Konferenz \"Regional Cooperation Challenges 2007/2008\" in Zagreb"
+        ],
+        "person": "Gernot Erler",
+        "untertitel": [
+          "Rede von Staatsminister Erler \"From International Crisis Management to Regional Ownership\" anlässlich der Konferenz Regional Cooperation Challenges 2007/2008 am 8./9. September 2006 in Zagreb"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2006/060908-Erler-Zagreb.html",
+        "id": "aa947f43-9517-444c-96da-2b0dc684febc",
+        "_version_": 1619495590753730600,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "09.10.2008",
+        "titel": [
+          "Rede von Staatsminister Erler bei der  3. Konferenz deutscher Beschäftigter in internationalen Organisationen und europäischen Institutionen am 9. Oktober 2008"
+        ],
+        "person": "Gernot Erler",
+        "anrede": "Sehr geehrte Frau Wagener,meine sehr verehrten Damen und Herren,liebe Kolleginnen und Kollegen!",
+        "untertitel": [
+          "Rede von Staatsminister Erler bei der  3. Konferenz deutscher Beschäftigter in internationalen Organisationen und europäischen Institutionen am 9. Oktober 2008 in Berlin"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2008/081009-Erler-dtsBeschäftigteIO.html",
+        "id": "55ac5d24-abe4-447b-b832-3c5c11dc9dae",
+        "_version_": 1619495591213006800,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "04.09.2000",
+        "titel": [
+          "Rede von Bundeskanzler Gerhard Schröder anlässlich der Konferenz der Deutschen Botschafter am 4. September 2000 in Berlin - BPA-Mitschrift -"
+        ],
+        "person": "Gerhard Schröder",
+        "anrede": "Sehr geehrter Herr Außenminister Védrine, sehr geehrter Herr Bundesaußenminister, meine Damen und Herren Abgeordnete, meine Damen und Herren,",
+        "url": "http://archiv.bundesregierung.de/bpaexport/rede/51/17351/multi.htm",
+        "id": "521785e3-3c45-4291-8abd-efc5058857bf",
+        "_version_": 1619495726992064500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "17.09.2008",
+        "titel": [
+          "Rede von Bundeskanzlerin Angela Merkel in der Haushaltsdebatte"
+        ],
+        "person": "Angela Merkel",
+        "anrede": "Herr Präsident!Meine Damen und Herren!",
+        "excerpt": [
+          "gehalten am 17. September",
+          "gehalten am 17. September",
+          "gehalten am 17. September",
+          "gehalten am 17. September"
+        ],
+        "url": "http://www.bundesregierung.de/nn_914560/Content/DE/Archiv16/Rede/2008/09/2008-09-17-bt-merkel-haushalt,layoutVariant=Druckansicht.html",
+        "id": "7c317263-2df8-49da-92a0-357e50fd2b78",
+        "_version_": 1619495731161202700,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "10.09.2011",
+        "titel": [
+          "\"Ein geeintes Europa zusammen mit den asiatischen Partnern\""
+        ],
+        "person": "Werner Hoyer",
+        "untertitel": [
+          "\"Ein geeintes Europa zusammen mit den asiatischen Partnern\""
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2011/110910-StM_Hoyer_Bergedorfer_GK.html",
+        "id": "0dcd881b-c39c-464c-b7bf-ba639797232a",
+        "_version_": 1619495589707251700,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "18.06.2009",
+        "titel": [
+          "Regierungserklärung Bundesaußenminister Frank-Walter Steinmeier zum Europäischen Rat, 18. Juni 2009"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "anrede": "Herr Präsident! Meine sehr verehrten Damen und Herren!",
+        "untertitel": [
+          "Regierungserklärung Bundesaußenminister Frank-Walter Steinmeier zum Europäischen Rat, 18. Juni 2009"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2009/090618-steinmeier-regierungserklaerung-er.html",
+        "id": "04dba1a9-1ba4-4d37-a363-2db68536411e",
+        "_version_": 1619495594446815200,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "12.09.2007",
+        "titel": [
+          "Vorausschauende Außenpolitik fortsetzen - Rede von Bundesaußenminister Steinmeier anlässlich der Haushaltsdebatte vor dem Deutschen Bundestag, 12.09.07"
+        ],
+        "person": "Frank-Walter Steinmeyer",
+        "anrede": "Herr Präsident!Meine sehr verehrten Damen und Herren!",
+        "untertitel": [
+          "Vorausschauende Außenpolitik fortsetzen - Rede von Bundesaußenminister Steinmeier anlässlich der Haushaltsdebatte vor dem Deutschen Bundestag, 12.09.07"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2007/070912-SteinmeierHaushaltsdebatte.html",
+        "id": "b52a0c35-7e53-4d1d-b479-50c64f70183f",
+        "_version_": 1619495594530701300,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "31.05.2010",
+        "titel": [
+          "Rede von Bundesaußenminister Guido Westerwelle bei den Deutsch-Brasilianischen Wirtschaftstagen, München"
+        ],
+        "person": "Guido Westerwelle",
+        "anrede": "Meine sehr verehrten Damen und Herren,",
+        "untertitel": [
+          "Rede von Bundesaußenminister Guido Westerwelle bei den Deutsch-Brasilianischen Wirtschaftstagen, München"
+        ],
+        "url": "http://www.auswaertiges-amt.de/DE/Infoservice/Presse/Reden/2010/100531-BM-Dt-Bras-Wirtschaftstage.html",
+        "id": "aae7eb85-56f0-450f-82a2-0118f0503ce5",
+        "_version_": 1619495594602004500,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "10. Mai 1996",
+        "titel": [
+          "Rede von Bundespräsident Roman Herzog vor dem venezolanischen Kongreß"
+        ],
+        "person": "Roman Herzog",
+        "anrede": "Herr Präsident des Abgeordnetenhauses,meine Damen und Herren Senatoren und Abgeordnete,meine Damen und Herren,",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Roman-Herzog/Reden/1996/05/19960510_Rede.html",
+        "id": "ae1fd04a-d1ac-438f-99fa-66c05ce66e64",
+        "_version_": 1619495501709705200,
+        "feedback": {
+          "relevant": false
+        }
+      },
+      {
+        "datum": "12. November 2010",
+        "titel": [
+          "Bundespräsident Christian Wulff zum 150-jährigen Jubiläum des Stahlinstituts VDEh"
+        ],
+        "person": "Christian Wulff",
+        "url": "http://www.bundespraesident.de/SharedDocs/Reden/DE/Christian-Wulff/Reden/2010/11/20101112_Rede.html",
+        "id": "d094b905-0e40-46e2-9ca5-e506919901f5",
+        "_version_": 1619495506663178200,
+        "feedback": {
+          "relevant": false
+        }
+      }
+    ]
+  }
+}

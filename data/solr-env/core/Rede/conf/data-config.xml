@@ -1,0 +1,26 @@
+<dataConfig>
+        <dataSource type="FileDataSource" encoding="UTF-8" />
+        <document>
+        <entity name="text"
+                processor="XPathEntityProcessor"
+                stream="true"
+                forEach="/collection/text"
+                url="./solr/mycores/Rede/conf/input/Bundesregierung.xml"
+                transformer="RegexTransformer,DateFormatTransformer"
+                >
+            <field column="person"         xpath="/collection/text/@person" />
+            <field column="titel"          xpath="/collection/text/@titel" />
+            <field column="datum"          xpath="/collection/text/@datum" dateTimeFormat="dd.MMMM yyyy"  />
+            <field column="excerpt"        xpath="/collection/text/@excerpt" />
+            <field column="url"            xpath="/collection/text/@url" /> 
+            <field column="ort"            xpath="/collection/text/@ort" />
+            <field column="anrede"         xpath="/collection/text/@anrede" /> 
+            <field column="excerpt"        xpath="/collection/text/@excerpt" /> 
+            <field column="untertitel"     xpath="/collection/text/@untertitel" /> 
+            <field column="rohtext"        xpath="/collection/text/rohtext" /> 
+            <field column="einleitung" regex="(^[^\.\!\?]*[\.\!\?][^\.\!\?]*[\.\!\?][^\.\!\?]*[\.\!\?])" sourceColName="rohtext" />
+            <field column="schluss"    regex="([^\.\!\?]*[\.\!\?][^\.\!\?]*[\.\!\?][^\.\!\?]*[\.\!\?]$)" sourceColName="rohtext" />
+            <field column="$skipDoc"       regex="^#REDIRECT .*" replaceWith="true" sourceColName="rohtext"/>
+       </entity>
+        </document>
+</dataConfig>

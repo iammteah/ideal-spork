@@ -1,0 +1,46 @@
+mat-list-item {
+  flex-grow: 1;
+  cursor: pointer;
+  margin-bottom: 1.5rem;
+}
+
+app-search-form, app-advanced-search-form {
+  flex-grow: 1;
+}
+
+.flex-row {
+  display: flex !important;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.titel {
+  white-space: unset !important;
+  font-weight: bold !important;
+}
+
+.redner {
+  flex-grow: 1;
+  font-style: italic;
+}
+
+.datum{
+  font-style: italic;
+}
+
+.snippet {
+  white-space: unset !important;
+  text-overflow: unset !important;
+}
+
+mat-card {
+  margin: 1.5rem;
+}
+
+::ng-deep em {
+  font-weight: bold;
+}
+
+mat-checkbox {
+  transform: scale(2);
+}

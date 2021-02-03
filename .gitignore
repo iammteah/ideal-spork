@@ -1,0 +1,8 @@
+./frontend/node_modules
+./backend/solr/ir-project/server/logs
+./backend/solr/ir-project/bin/solr-8983.pid
+./data/solr-env/logs
+.idea
+./evaluation/node_modules
+./evaluation/dist
+./evaluation/yarn-error.log

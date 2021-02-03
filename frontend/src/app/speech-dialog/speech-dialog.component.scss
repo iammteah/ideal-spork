@@ -1,0 +1,16 @@
+:host{
+  font: 500 12px Roboto,"Helvetica Neue",sans-serif;
+
+  &>h2{
+    font-size: 16px;
+  }
+
+  &>h3{
+    font-size: 14px;
+    text-align: right;
+  }
+
+  &>div{
+    font-size: 14px;
+  }
+}
